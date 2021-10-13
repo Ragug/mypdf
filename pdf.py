@@ -37,10 +37,10 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-OwNeD By: @RG_bots
+OwNeD By: '@RG_bots'
 
 
-Join @RG_bots, for bot updates ♥️
+Join '@RG_bots', for bot updates ♥️
 
 [Our Bots](https://t.me/RG_bots/66)
 
@@ -59,13 +59,13 @@ Join @RG_bots, for bot updates ♥️
 				try:
 					aboutDev = f'''About :
 
-OwNeD By:@RG_bot
+OwNeD By:'@RG_bot'
 
 Our Bots:[Rg.bots](https://t.me/RG_bots/66)
 
 
 
-Join @RG_bots , if you ❤ this 
+Join '@RG_bots' , if you ❤ this 
 
 [Telegram Stickers](https://t.me/RG_bots/63)
 '''
@@ -167,7 +167,7 @@ WARNING MESSAGE ⚠️:
 
 ◍ Please don't try to spread 18+ contents 😒
 
-IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT @RG_bots
+IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT '@RG_bots'
 
 '''
 					key = types.InlineKeyboardMarkup()
@@ -188,10 +188,10 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-OwNeD By: @RG_bots
+OwNeD By: '@RG_bots'
 
 
-Join @RG_bots, if you ♥️ this bot
+Join '@RG_bots', if you ♥️ this bot
 
 [Our Bots](https://t.me/RG_bots/66)
 '''
