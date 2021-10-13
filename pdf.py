@@ -46,7 +46,7 @@ Join @RG\_bots, for bot updates ♥️
 
 '''
 		key = types.InlineKeyboardMarkup()
-		key.add(types.InlineKeyboardButton("Source Code ❤️", callback_data="strtDevEdt"),types.InlineKeyboardButton("Explore More 🥳", callback_data="imgsToPdfEdit"))
+		key.add(types.InlineKeyboardButton("Telegram Strickers ❤️", callback_data="strtDevEdt"),types.InlineKeyboardButton("Explore More 🥳", callback_data="imgsToPdfEdit"))
 		bot.send_message(message.chat.id, strtMsg, disable_web_page_preview=True, reply_markup=key)
 	
 		
@@ -67,7 +67,7 @@ Our Bots:[Rg.bots](https://t.me/RG_bots/66)
 
 Join @RG\_bots , if you ❤ this 
 
-[Telegram Stickers](https://t.me/RG_bots/63)
+Telegram Stickers:[Rg.Stickers](https://t.me/RG_bots/63)
 '''
 					key = types.InlineKeyboardMarkup()
 					key.add(types.InlineKeyboardButton("🔙 Home 🏡", callback_data="back"))
@@ -167,7 +167,7 @@ WARNING MESSAGE ⚠️:
 
 ◍ Please don't try to spread 18+ contents 😒
 
-IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT '@RG_bots'
+IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT '@RG\_bots'
 
 '''
 					key = types.InlineKeyboardMarkup()
@@ -193,10 +193,10 @@ OwNeD By:@RG\_bots
 
 Join @RG\_bots, if you ♥️ this bot
 
- '''+ '''[Our Bots](https://t.me/RG_bots/66)
+ '''+ '''Our Bots:[Rg.Bots](https://t.me/RG_bots/66)
 '''
 					key = types.InlineKeyboardMarkup()
-					key.add(types.InlineKeyboardButton("Source Code ❤️", callback_data="strtDevEdt"),types.InlineKeyboardButton("Explore More 🥳", callback_data="imgsToPdfEdit"))
+					key.add(types.InlineKeyboardButton("Telegram Strickers ❤️", callback_data="strtDevEdt"),types.InlineKeyboardButton("Explore More 🥳", callback_data="imgsToPdfEdit"))
 					bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text = strtMsg, disable_web_page_preview=True, reply_markup=key)
 				
 				except:
