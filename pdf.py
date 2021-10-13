@@ -37,12 +37,12 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-OwNeD By:https://t.me/RG\_bots '''+ '''
+OwNeD By:@RG\_bots
 
 
-Join RG_bots, for bot updates ♥️
+Join @RG\_bots, for bot updates ♥️
 
-[Our Bots](https://t.me/RG_bots/66)
+ '''+ '''[Our Bots](https://t.me/RG_bots/66)
 
 '''
 		key = types.InlineKeyboardMarkup()
@@ -59,13 +59,13 @@ Join RG_bots, for bot updates ♥️
 				try:
 					aboutDev = f'''About :
 
-OwNeD By:https://t.me/RG\_bots ''' +'''
+OwNeD By:@RG\_bots
 
 Our Bots:[Rg.bots](https://t.me/RG_bots/66)
 
 
 
-Join 'RG_bots' , if you ❤ this 
+Join @RG\_bots , if you ❤ this 
 
 [Telegram Stickers](https://t.me/RG_bots/63)
 '''
@@ -188,12 +188,12 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-OwNeD By:https://t.me/RG\_bots ''' +'''
+OwNeD By:@RG\_bots 
 
 
-Join RG_bots, if you ♥️ this bot
+Join @RG\_bots, if you ♥️ this bot
 
-[Our Bots](https://t.me/RG_bots/66)
+ '''+ '''[Our Bots](https://t.me/RG_bots/66)
 '''
 					key = types.InlineKeyboardMarkup()
 					key.add(types.InlineKeyboardButton("Source Code ❤️", callback_data="strtDevEdt"),types.InlineKeyboardButton("Explore More 🥳", callback_data="imgsToPdfEdit"))
