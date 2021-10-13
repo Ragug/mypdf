@@ -37,13 +37,13 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-OwNeD By: @nabilanavab 😜
-Update Channel: @nabiIanavab 🤩
+OwNeD By: @RG_bots
 
-Join @nabiIanavab, for bot updates ♥️
 
-[Source Code 🏆](https://github.com/nabilanavab/ilovepdf)
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+Join @RG_bots, for bot updates ♥️
+
+[Our Bots](https://t.me/RG_bots/66)
+
 '''
 		key = types.InlineKeyboardMarkup()
 		key.add(types.InlineKeyboardButton("Source Code ❤️", callback_data="strtDevEdt"),types.InlineKeyboardButton("Explore More 🥳", callback_data="imgsToPdfEdit"))
@@ -57,17 +57,17 @@ Join @nabiIanavab, for bot updates ♥️
 			if edit == 'strtDevEdt':
 				
 				try:
-					aboutDev = f'''About Dev:
+					aboutDev = f'''About :
 
-OwNeD By: @nabilanavab 😜
-Update Channel: @nabiIanavab 😇
+OwNeD By:@RG_bot
 
-Lang Used: Python🐍
-[Source Code](https://github.com/nabilanavab/ilovepdf)
+Our Bots:[Rg.bots](https://t.me/RG_bots/66)
 
-Join @nabiIanavab , if you ❤ this 
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+
+Join @RG_bots , if you ❤ this 
+
+[Telegram Stickers](https://t.me/RG_bots/63)
 '''
 					key = types.InlineKeyboardMarkup()
 					key.add(types.InlineKeyboardButton("🔙 Home 🏡", callback_data="back"))
@@ -96,7 +96,7 @@ Images to pdf :
 	- `/generate fileName` - to change pdf name to fileName🤞
 	- `/generate name` - to get pdf with your telegram name
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)'''
+'''
 					key = types.InlineKeyboardMarkup()
 					key.add(types.InlineKeyboardButton("🔙 Home 🏡", callback_data="back"),types.InlineKeyboardButton("PDF to images ➡️", callback_data="pdfToImgsEdit"))
 					bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text = expMsg, disable_web_page_preview=True, reply_markup=key)
@@ -121,9 +121,9 @@ PDF to images:
 
 ⚠️ Due to overload this bot will only convert files less than 10mb files..⚠️
 
-if you need to convert 10mb+ you can create your own bot.. Source code is mentioned in bio 😇
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)'''
+
+'''
 					key = types.InlineKeyboardMarkup()
 					key.add(types.InlineKeyboardButton("🔙 Imgs To Pdf", callback_data="imgsToPdfEdit"),types.InlineKeyboardButton("Home 🏡", callback_data="back"),types.InlineKeyboardButton("file to Pdf ➡️", callback_data="filsToPdfEdit"))
 					bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text = expMsg, disable_web_page_preview=True, reply_markup=key)
@@ -147,9 +147,9 @@ API LIMITS..😕
 
 ⚠️ Due to overload this bot will only convert files less than 10mb files..⚠️
 
-if you need to convert 10mb+ you can create your own bot.. Source code is mentioned in bio 😇
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)'''
+
+'''
 					key = types.InlineKeyboardMarkup()
 					key.add(types.InlineKeyboardButton("🔙 PDF to imgs", callback_data="imgsToPdfEdit"),types.InlineKeyboardButton("Home 🏡", callback_data="back"),types.InlineKeyboardButton("WARNING ⚠️", callback_data="warningEdit"))
 					bot.edit_message_text(chat_id=call.message.chat.id, message_id=call.message.message_id, text = expMsg, disable_web_page_preview=True, reply_markup=key)
@@ -167,9 +167,8 @@ WARNING MESSAGE ⚠️:
 
 ◍ Please don't try to spread 18+ contents 😒
 
-IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT @nabilanavab
+IF THERE IS ANY KIND OF REPORTING, BUGS, REQUESTS, AND SUGGESTIONS PLEASE CONTACT @RG_bots
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
 '''
 					key = types.InlineKeyboardMarkup()
 					key.add(types.InlineKeyboardButton("🔙 WARNING ⚠️", callback_data="warningEdit"),types.InlineKeyboardButton("Home 🏡", callback_data="back"))
@@ -189,12 +188,12 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-OwNeD By: @nabilanavab 😜
-Update Channel: @nabiIanavab 🤩
+OwNeD By: @RG_bots
 
-Join @nabiIanavab, if you ♥️ this bot
 
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+Join @RG_bots, if you ♥️ this bot
+
+[Our Bots](https://t.me/RG_bots/66)
 '''
 					key = types.InlineKeyboardMarkup()
 					key.add(types.InlineKeyboardButton("Source Code ❤️", callback_data="strtDevEdt"),types.InlineKeyboardButton("Explore More 🥳", callback_data="imgsToPdfEdit"))
@@ -224,7 +223,7 @@ Help message:
 
  ◍ Then Use `Explore more 🥳` button for more help 🙏🥴
  
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+
 '''
 		key = types.InlineKeyboardMarkup()
 		key.add(types.InlineKeyboardButton("Close ⌛", callback_data="close"))
