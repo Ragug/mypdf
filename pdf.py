@@ -37,7 +37,7 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-OwNeD By:https://t.me/RG_bots
+OwNeD By:https://t.me/RG\_bots
 
 
 Join RG_bots, for bot updates ♥️
@@ -59,7 +59,7 @@ Join RG_bots, for bot updates ♥️
 				try:
 					aboutDev = f'''About :
 
-OwNeD By:https://t.me/RG_bots
+OwNeD By:https://t.me/RG\_bots
 
 Our Bots:[Rg.bots](https://t.me/RG_bots/66)
 
@@ -188,7 +188,7 @@ Some of the main features are:
 ◍ `Convert PDF to images`
 ◍ `Convert files to pdf`
 
-OwNeD By:https://t.me/RG_bots
+OwNeD By:https://t.me/RG\_bots
 
 
 Join RG_bots, if you ♥️ this bot
