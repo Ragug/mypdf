@@ -245,7 +245,7 @@ Help message:
 def feedback(message):
 	bot.send_chat_action(message.chat.id, "typing")
 	feedbackMsg = f'''
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Donate](https://t.me/RG_bots)
 '''
 	bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 
@@ -415,7 +415,7 @@ Or Create pdf bot your Own.. link in bio''')
 				sleep(10)
 				bot.send_chat_action(message.chat.id, "typing")
 				feedbackMsg = f'''
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Donate](https://t.me/RG_bots)
 '''
 				bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 				
@@ -468,7 +468,7 @@ Or Create pdf bot your Own.. link in bio''')
 				sleep(10)
 				bot.send_chat_action(message.chat.id, "typing")
 				feedbackMsg = f'''
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Donate](https://t.me/RG_bots)
 '''
 				bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 		
@@ -520,7 +520,7 @@ Or Create pdf bot your Own.. link in bio''')
 					sleep(10)
 					bot.send_chat_action(message.chat.id, "typing")
 					feedbackMsg = f'''
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Donate](https://t.me/RG_bots)
 '''
 					bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 				
@@ -609,7 +609,7 @@ def generate(message):
 		sleep(10)
 		bot.send_chat_action(message.chat.id, "typing")
 		feedbackMsg = f'''
-[Write a feedback 📋](https://t.me/nabilanavabchannel/17?comment=10)
+[Donate](https://t.me/RG_bots)
 '''
 		bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 	
