@@ -27,8 +27,7 @@
      /cancel - Delete's old queue
      /generate - long tap to set a pdf name
 
-## Source code:<br>
-     Developed by: @nabilanavab, Kerala
+
 
 ## Privacy & Security:<br>
      Ones the pdf is generated, all your images including the pdf file will be removed from the server.
@@ -44,7 +43,7 @@
           pip install pillow
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/nabilanavab/ilovepdf)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Ragug/mypdf.git)
 
 ## ConfigVar/EnvVar:<br>
 
