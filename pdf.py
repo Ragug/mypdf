@@ -39,6 +39,8 @@ Some of the main features are:
 
 OwNeD By:@RG\_bots
 
+We are creating telegram useful bots and provide as free without adds.
+If you like our bots donate us...
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
 Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 
@@ -192,6 +194,8 @@ Some of the main features are:
 
 OwNeD By:@RG\_bots 
 
+We are creating telegram useful bots and provide as free without adds.
+If you like our bots donate us...
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
 Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 
@@ -249,6 +253,8 @@ Help message:
 def feedback(message):
 	bot.send_chat_action(message.chat.id, "typing")
 	feedbackMsg = f'''
+We are creating telegram useful bots and provide as free without adds.
+If you like our bots donate us...
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
 Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 '''
@@ -420,6 +426,8 @@ def fls(message):
 				sleep(10)
 				bot.send_chat_action(message.chat.id, "typing")
 				feedbackMsg = f'''
+We are creating telegram useful bots and provide as free without adds.
+If you like our bots donate us...
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
 Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 '''
@@ -474,6 +482,8 @@ Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 				sleep(10)
 				bot.send_chat_action(message.chat.id, "typing")
 				feedbackMsg = f'''
+We are creating telegram useful bots and provide as free without adds.
+If you like our bots donate us...
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
 Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 '''
@@ -527,6 +537,8 @@ Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 					sleep(10)
 					bot.send_chat_action(message.chat.id, "typing")
 					feedbackMsg = f'''
+We are creating telegram useful bots and provide as free without adds.
+If you like our bots donate us...
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
 Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 '''
@@ -617,6 +629,8 @@ def generate(message):
 		sleep(10)
 		bot.send_chat_action(message.chat.id, "typing")
 		feedbackMsg = f'''
+We are creating telegram useful bots and provide as free without adds.
+If you like our bots donate us...
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
 Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 '''
