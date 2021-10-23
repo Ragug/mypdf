@@ -39,6 +39,8 @@ Some of the main features are:
 
 OwNeD By:@RG\_bots
 
+Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
+Donate:[Rg.Qrcode.all](https://t.me/RG_bots/66)
 
 Join @RG\_bots, for bot updates ♥️
 
@@ -190,6 +192,8 @@ Some of the main features are:
 
 OwNeD By:@RG\_bots 
 
+Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
+Donate:[Rg.Qrcode.all](https://t.me/RG_bots/66)
 
 Join @RG\_bots, if you ♥️ this bot
 
@@ -245,7 +249,8 @@ Help message:
 def feedback(message):
 	bot.send_chat_action(message.chat.id, "typing")
 	feedbackMsg = f'''
-[Donate](https://t.me/RG_bots)
+Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
+Donate:[Rg.Qrcode.all](https://t.me/RG_bots/66)
 '''
 	bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 
@@ -415,7 +420,8 @@ Or Create pdf bot your Own.. link in bio''')
 				sleep(10)
 				bot.send_chat_action(message.chat.id, "typing")
 				feedbackMsg = f'''
-[Donate](https://t.me/RG_bots)
+Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
+Donate:[Rg.Qrcode.all](https://t.me/RG_bots/66)
 '''
 				bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 				
@@ -468,7 +474,8 @@ Or Create pdf bot your Own.. link in bio''')
 				sleep(10)
 				bot.send_chat_action(message.chat.id, "typing")
 				feedbackMsg = f'''
-[Donate](https://t.me/RG_bots)
+Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
+Donate:[Rg.Qrcode.all](https://t.me/RG_bots/66)
 '''
 				bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 		
@@ -520,7 +527,8 @@ Or Create pdf bot your Own.. link in bio''')
 					sleep(10)
 					bot.send_chat_action(message.chat.id, "typing")
 					feedbackMsg = f'''
-[Donate](https://t.me/RG_bots)
+Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
+Donate:[Rg.Qrcode.all](https://t.me/RG_bots/66)
 '''
 					bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 				
@@ -609,7 +617,8 @@ def generate(message):
 		sleep(10)
 		bot.send_chat_action(message.chat.id, "typing")
 		feedbackMsg = f'''
-[Donate](https://t.me/RG_bots)
+Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
+Donate:[Rg.Qrcode.all](https://t.me/RG_bots/66)
 '''
 		bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 	
