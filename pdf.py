@@ -40,7 +40,7 @@ Some of the main features are:
 OwNeD By:@RG\_bots
 
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
-Donate:[Rg.Qrcode.all](https://t.me/RG_bots/87)
+Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 
 Join @RG\_bots, for bot updates ♥️
 
@@ -193,7 +193,7 @@ Some of the main features are:
 OwNeD By:@RG\_bots 
 
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
-Donate:[Rg.Qrcode.all](https://t.me/RG_bots/87)
+Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 
 Join @RG\_bots, if you ♥️ this bot
 
@@ -250,7 +250,7 @@ def feedback(message):
 	bot.send_chat_action(message.chat.id, "typing")
 	feedbackMsg = f'''
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
-Donate:[Rg.Qrcode.all](https://t.me/RG_bots/87)
+Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 '''
 	bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 
@@ -304,7 +304,7 @@ def fls(message):
 				bot.send_chat_action(message.chat.id, "typing")
 				unSuprtd = bot.send_message(message.chat.id, f'''`please Send me a file less than 10mb Size`😪
 
-Or Create pdf bot your Own.. link in bio''')
+''')
 				sleep(15)
 				bot.delete_message(chat_id = message.chat.id, message_id = message.message_id)
 				bot.delete_message(chat_id = message.chat.id, message_id = unSuprtd.message_id)
@@ -421,7 +421,7 @@ Or Create pdf bot your Own.. link in bio''')
 				bot.send_chat_action(message.chat.id, "typing")
 				feedbackMsg = f'''
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
-Donate:[Rg.Qrcode.all](https://t.me/RG_bots/87)
+Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 '''
 				bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 				
@@ -475,7 +475,7 @@ Donate:[Rg.Qrcode.all](https://t.me/RG_bots/87)
 				bot.send_chat_action(message.chat.id, "typing")
 				feedbackMsg = f'''
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
-Donate:[Rg.Qrcode.all](https://t.me/RG_bots/87)
+Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 '''
 				bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 		
@@ -528,7 +528,7 @@ Donate:[Rg.Qrcode.all](https://t.me/RG_bots/87)
 					bot.send_chat_action(message.chat.id, "typing")
 					feedbackMsg = f'''
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
-Donate:[Rg.Qrcode.all](https://t.me/RG_bots/87)
+Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 '''
 					bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 				
@@ -618,7 +618,7 @@ def generate(message):
 		bot.send_chat_action(message.chat.id, "typing")
 		feedbackMsg = f'''
 Donate:[Rg.gpay.donate](https://gpay.app.goo.gl/pay-QOsNyhJhYFY)
-Donate:[Rg.Qrcode.all](https://t.me/RG_bots/87)
+Donate:[Rg.Qrcode.for all upi](https://t.me/RG_bots/87)
 '''
 		bot.send_message(message.chat.id, feedbackMsg, disable_web_page_preview=True)
 	
