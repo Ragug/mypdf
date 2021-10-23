@@ -63,7 +63,7 @@ Join @RG\_bots, for bot updates ♥️
 
 OwNeD By:@RG\_bots
 
-Our Bots:[Rg.bots](https://t.me/RG_bots/87)
+Our Bots:[Rg.bots](https://t.me/RG_bots/66)
 
 
 
