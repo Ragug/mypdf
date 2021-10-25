@@ -340,7 +340,7 @@ def fls(message):
 				
 				img = Image.open(f'./{message.chat.id}/imgs/{message.chat.id}{isPdfOrImg}').convert("RGB")
 				PDF[message.chat.id].append(img)
-				bot.edit_message_text(chat_id= message.chat.id,, disable_web_page_preview=True, text = f'''`Added {len(PDF[message.chat.id])} page/'s to your pdf..`🤓
+				bot.edit_message_text(chat_id= message.chat.id, disable_web_page_preview=True, text = f'''`Added {len(PDF[message.chat.id])} page/'s to your pdf..`🤓
 				
 Demo video set file name:[Rgbots.demo.video/for file rename ](https://telegra.ph/file/844ec5bfec54a0b1e0f51.mp4)
 /generate to generate PDF 🤞
