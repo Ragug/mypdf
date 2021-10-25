@@ -289,9 +289,10 @@ def pic(message):
 		img = Image.open(f'./{message.chat.id}/imgs/{message.chat.id}.jpg').convert("RGB")
 		PDF[message.chat.id].append(img)
 		bot.edit_message_text(chat_id= message.chat.id, text = f'''`Added {len(PDF[message.chat.id])} page/'s to your pdf..`🤓
-
+		
+Demo video set file name:[Rgbots.demo.video/for file rename ](https://telegra.ph/file/844ec5bfec54a0b1e0f51.mp4)
 /generate to generate PDF 🤞
-Demo video set file name:[Rgbots.demo.video/for file rename ](https://telegra.ph/file/844ec5bfec54a0b1e0f51.mp4)''', message_id = picMsgId.message_id)
+''', message_id = picMsgId.message_id)
 	
 	except:
 		pass
@@ -340,9 +341,10 @@ def fls(message):
 				img = Image.open(f'./{message.chat.id}/imgs/{message.chat.id}{isPdfOrImg}').convert("RGB")
 				PDF[message.chat.id].append(img)
 				bot.edit_message_text(chat_id= message.chat.id, text = f'''`Added {len(PDF[message.chat.id])} page/'s to your pdf..`🤓
-
+				
+Demo video set file name:[Rgbots.demo.video/for file rename ](https://telegra.ph/file/844ec5bfec54a0b1e0f51.mp4)
 /generate to generate PDF 🤞
-Demo video set file name:[Rgbots.demo.video/for file rename ](https://telegra.ph/file/844ec5bfec54a0b1e0f51.mp4)''', message_id = picMsgId.message_id)
+''', message_id = picMsgId.message_id)
 				
 			except Exception as e:
 				
