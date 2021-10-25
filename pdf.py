@@ -290,7 +290,8 @@ def pic(message):
 		PDF[message.chat.id].append(img)
 		bot.edit_message_text(chat_id= message.chat.id, text = f'''`Added {len(PDF[message.chat.id])} page/'s to your pdf..`🤓
 
-/generate to generate PDF 🤞''', message_id = picMsgId.message_id)
+/generate to generate PDF 🤞
+Demo video set file name:[Rgbots.demo.video/for file rename ](https://telegra.ph/file/844ec5bfec54a0b1e0f51.mp4)''', message_id = picMsgId.message_id)
 	
 	except:
 		pass
