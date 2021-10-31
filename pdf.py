@@ -291,6 +291,8 @@ def pic(message):
 		bot.edit_message_text(chat_id= message.chat.id, disable_web_page_preview=True,text = f'''`Added {len(PDF[message.chat.id])} page/'s to your pdf..`🤓
 		
 Demo video set file name:[Rgbots.demo.video/for file rename ](https://telegra.ph/file/5f60e50a4d3f461a049c5.mp4)
+
+
 /generate to generate PDF 🤞
 ''', message_id = picMsgId.message_id)
 	
@@ -343,6 +345,8 @@ def fls(message):
 				bot.edit_message_text(chat_id= message.chat.id, disable_web_page_preview=True, text = f'''`Added {len(PDF[message.chat.id])} page/'s to your pdf..`🤓
 				
 Demo video set file name:[Rgbots.demo.video/for file rename ](https://telegra.ph/file/5f60e50a4d3f461a049c5.mp4)
+
+
 /generate to generate PDF 🤞
 ''', message_id = picMsgId.message_id)
 				
